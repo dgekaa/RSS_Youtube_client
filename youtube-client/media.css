@@ -1,0 +1,17 @@
+
+
+@media screen and (max-width: 1200px){
+	.container{
+		width: 900px;
+	}
+}
+@media screen and (max-width: 950px){
+	.container{
+		width: 600px;
+	}
+}
+@media screen and (max-width: 600px){
+	.container{
+		width: 305px;
+	}
+}
